@@ -15,7 +15,7 @@
 --* Mod History     :  $Log: test_counter.vhdl,v $
 --* Mod History     :  Revision 1.1  1999-03-12 16:20:26-05  bishop
 --* Mod History     :  Initial revision
---* Mod History     :
+--* Mod History     :  Changed comment header
 --*                 :
 --* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
